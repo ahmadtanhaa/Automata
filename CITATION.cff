@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or refer to this repository, please cite it as below."
+title: "DevOps Bash Automation Scripts for Backup and ELK Workflows"
+authors:
+  - family-names: Tanha
+    given-names: Ahmad
+year: 2026
+repository-code: "https://github.com/ahmadtanhaa/devops-bash-automation"
+license: Apache-2.0
+keywords:
+  - DevOps
+  - Bash
+  - MongoDB
+  - MySQL
+  - Backup automation
+  - Elasticsearch
+  - ELK
+  - FinTech infrastructure
