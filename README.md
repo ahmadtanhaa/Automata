@@ -147,7 +147,7 @@ The scripts are shared only as examples of Bash-based infrastructure automation.
 If you use or refer to this repository, please cite it as:
 
 ```bibtex
-@misc{tanha_devops_bash_automation_2026,
+@misc{Tanha_Automata_2026,
   author       = {Tanha, Ahmad},
   title        = {DevOps Bash Automation Scripts for Backup and ELK Workflows},
   year         = {2026},
