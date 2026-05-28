@@ -156,6 +156,8 @@ If you use or refer to this repository, please cite it as:
 }
 ```
 
+You may also cite the repository using the `CITATION.cff` file.
+
 ## Author
 
 **Ahmad Tanha**
