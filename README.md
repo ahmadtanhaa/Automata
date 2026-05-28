@@ -67,8 +67,8 @@ These scripts are useful for demonstrating or implementing:
 Clone the repository:
 
 ```bash
-git clone https://github.com/ahmadtanhaa/devops-bash-automation.git
-cd devops-bash-automation
+git clone https://github.com/ahmadtanhaa/Automata.git
+cd Automata
 ```
 
 Make a script executable:
@@ -103,7 +103,7 @@ For production environments, it is strongly recommended to use environment varia
 A backup script can be scheduled with `cron`, for example:
 
 ```bash
-0 2 * * * /path/to/devops-bash-automation/scripts/Backup_Live.sh
+0 2 * * * /path/to/Automata/scripts/Backup_Live.sh
 ```
 
 This example runs the live backup script every day at 02:00.
@@ -111,7 +111,7 @@ This example runs the live backup script every day at 02:00.
 A retention script can also be scheduled periodically:
 
 ```bash
-0 4 * * * /path/to/devops-bash-automation/scripts/Backup_Period.sh
+0 4 * * * /path/to/Automata/scripts/Backup_Period.sh
 ```
 
 ## Security Notice
