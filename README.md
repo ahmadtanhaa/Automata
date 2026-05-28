@@ -5,7 +5,7 @@
 
 ## Bash Scripts for Backup Automation and ELK Workflows
 
-This repository contains a sanitized collection of Bash scripts developed during professional DevOps engineering work in a FinTech infrastructure context.
+This repository contains a sanitized collection of Bash scripts developed during my professional DevOps engineering work in the infrastructure context of a FinTech startup.
 
 The scripts automate routine infrastructure tasks such as MongoDB/MySQL backup generation, backup retention, remote synchronization, and JSON ingestion into Elasticsearch/ELK.
 
