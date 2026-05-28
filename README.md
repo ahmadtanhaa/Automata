@@ -141,6 +141,10 @@ All sensitive information has been removed. The repository does not contain priv
 
 The scripts are shared only as examples of Bash-based infrastructure automation.
 
+## Author
+
+**Ahmad Tanha**
+
 ## Citation
 
 If you use or refer to this repository, please cite it as:
@@ -161,6 +165,3 @@ This repository is distributed under the Apache License 2.0.
 
 See the `LICENSE` file for more details.
 
-## Author
-
-**Ahmad Tanha**
