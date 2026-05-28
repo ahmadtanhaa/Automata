@@ -141,9 +141,6 @@ All sensitive information has been removed. The repository does not contain priv
 
 The scripts are shared only as examples of Bash-based infrastructure automation.
 
-## Author
-
-**Ahmad Tanha**
 
 ## Citation
 
@@ -158,6 +155,12 @@ If you use or refer to this repository, please cite it as:
   note         = {Sanitized Bash scripts for database backup automation, retention policies, remote synchronization, and Elasticsearch JSON ingestion}
 }
 ```
+
+## Author
+
+**Ahmad Tanha**
+
+GitHub: https://github.com/ahmadtanhaa
 
 ## License
 
