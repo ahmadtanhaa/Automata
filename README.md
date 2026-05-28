@@ -151,7 +151,7 @@ If you use or refer to this repository, please cite it as:
   author       = {Tanha, Ahmad},
   title        = {DevOps Bash Automation Scripts for Backup and ELK Workflows},
   year         = {2026},
-  howpublished = {\url{https://github.com/ahmadtanhaa/devops-bash-automation}},
+  howpublished = {\url{https://github.com/ahmadtanhaa/Automata}},
   note         = {Sanitized Bash scripts for database backup automation, retention policies, remote synchronization, and Elasticsearch JSON ingestion}
 }
 ```
